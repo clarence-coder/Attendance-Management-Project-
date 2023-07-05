@@ -1,5 +1,5 @@
 # Attendance-Management-Project-
-#######################################################  WELCOME TO MY ATTENDANCE MANAGEMENT PROJECT  ###############################################################################
+################  WELCOME TO MY ATTENDANCE MANAGEMENT PROJECT  #######################################################
 // Following is an independent project created by Clarence© 
 
 To get started make sure the following packages are installed along with their version numbers to ensure a smooth setup.
